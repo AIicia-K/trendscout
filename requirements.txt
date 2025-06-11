@@ -1,0 +1,6 @@
+praw
+beautifulsoup4
+requests
+pandas
+matplotlib
+vaderSentiment
